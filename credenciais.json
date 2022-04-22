@@ -1,8 +1,0 @@
-{
-        "USER" : "kleberson",
-        "PASSWORD" : "331699",
-        "HOST" : "localhost",
-        "PORT" : "5432",
-        "DATABASE" : "kleberson",
-        "JWT_SECRET_key" : "DontTellAnyone"
-}
